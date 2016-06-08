@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:43.368231
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:56
 #+TITLE: 天台分門圖
 #+PROPERTY: CBETA_ID T85n2824
 #+PROPERTY: ID KR6i0098
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2824
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0098_T_001-1223a> 
 #+PROPERTY: JUAN 1
-No.2824¶
-
- 天台分門圖¶
+No. 2824¶
+天台分門圖¶
 ¶
 
   
